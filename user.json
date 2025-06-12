@@ -4,21 +4,7 @@
       "username": "abdullah",
       "password": "$2a$12$RzpFPBoS1.olyQtAb7WxtOxj7oOd./w67lBLbNFB3VSeC4ySJbVvm",
       "subscription": "aimkillapk",
-      "expiry": "2026-12-31",
-      "device_id": ""
-    },
-    {
-      "username": "testuser",
-      "password": "$2a$12$RzpFPBoS1.olyQtAb7WxtOxj7oOd./w67lBLbNFB3VSeC4ySJbVvm",
-      "subscription": "tester",
-      "expiry": "2026-12-31",
-      "device_id": ""
-    },
-    {
-      "username": "adminuser",
-      "password": "$2a$12$RzpFPBoS1.olyQtAb7WxtOxj7oOd./w67lBLbNFB3VSeC4ySJbVvm",
-      "subscription": "owner",
-      "expiry": "2099-01-01",
+      "expiry": "2025-12-31",
       "device_id": ""
     }
   ]
